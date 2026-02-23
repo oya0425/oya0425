@@ -1,16 +1,29 @@
-## Hi there 👋
+# oya0425
 
-<!--
-**oya0425/oya0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ゲームプログラミング学習中  
+Unity / C# / C++
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 制作物
+
+### 🎮 LifeGame（制作中）
+Unityで制作しているボードゲームシステムです。  
+マス管理・イベント処理・状態遷移設計を実装しています。
+
+🔗 https://github.com/oya0425/LifeGame
+
+---
+
+## 技術スタック
+- Unity（C#）
+- オブジェクト指向設計
+- 状態遷移管理
+- マネージャークラス設計
+
+---
+
+## 現在取り組んでいること
+- コード整理
+- 設計改善
+- 機能追加
